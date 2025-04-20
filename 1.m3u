@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV1
+http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000131/1.m3u8
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV1
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000018602/
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV1
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000021973/
@@ -25,8 +27,8 @@ http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010144/
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010011/
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV1
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010144/
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV1(中国IPTV)-7.7M1080
-http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000131/1.m3u8
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV2.png" group-title="央视",CCTV2
+http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000372/1.m3u8
 #EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央视",CCTV2
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000012442/
 #EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央视",CCTV2
@@ -39,8 +41,6 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010211/
 #EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央视",CCTV2
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010211/
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV2.png" group-title="央视",CCTV2-7.7M1080
-http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000372/1.m3u8
 #EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央视",CCTV3
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000011218/
 #EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央视",CCTV3
@@ -49,6 +49,8 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010212/
 #EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央视",CCTV3
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010212/
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="央视",CCTV4
+http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000485/1.m3u8
 #EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="央视",CCTV4
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000031664/
 #EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="央视",CCTV4
@@ -61,8 +63,8 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010017/
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010017/
 #EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="央视",CCTV4
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010017/
-#EXTINF:-1,tvg-id="CCTV4AME" tvg-name="CCTV4AME" tvg-logo="https://epg.v1.mk/logo/CCTV4AME.png" group-title="央视",CCTV4-7.7M1080
-http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000485/1.m3u8
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV5.png" group-title="央视",CCTV5
+http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000461/1.m3u8
 #EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视",CCTV5
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000004794/
 #EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视",CCTV5
@@ -88,6 +90,8 @@ http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010139/
 #EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视",CCTV5
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010145/
 #EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央视",CCTV5+
+http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000132/1.m3u8
+#EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央视",CCTV5+
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000018504/
 #EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央视",CCTV5+
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000020505/
@@ -97,10 +101,6 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010202/
 #EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央视",CCTV5+
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010202/
-#EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央视",CCTV5+(中国IPTV)-7.7M1080
-http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000132/1.m3u8
-#EXTINF:-1,tvg-id="CCTV5gametouming" tvg-name="CCTV5gametouming" tvg-logo="https://epg.v1.mk/logo/CCTV5gametouming.png" group-title="央视",CCTV5-7.5M1080
-http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000461/1.m3u8
 #EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央视",CCTV6
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000016466/
 #EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央视",CCTV6
@@ -111,6 +111,8 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010214/
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010214/
 #EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央视",CCTV6
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010214/
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV7
+http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000380/1.m3u8
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV7
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000017218/
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV7
@@ -125,8 +127,6 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010215/
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010215/
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV7
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010215/
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV7-7.7M1080
-http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000380/1.m3u8
 #EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视",CCTV8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000003736/
 #EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视",CCTV8
@@ -135,6 +135,8 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010216/
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010216/
 #EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视",CCTV8
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010216/
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.v1.mk/logo/CCTV9.png" group-title="央视",CCTV9
+http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000373/1.m3u8
 #EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央视",CCTV9
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000014583/
 #EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央视",CCTV9
@@ -153,8 +155,6 @@ http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010217/
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010052/
 #EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央视",CCTV9
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010217/
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.v1.mk/logo/CCTV9.png" group-title="央视",CCTV9-7.7M1080
-http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000373/1.m3u8
 #EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV10
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000023734/
 #EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV10
@@ -169,7 +169,7 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010203/
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010203/
 #EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV10
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010203/
-#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV10-7.7M1080
+#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV10
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000375/1.m3u8
 #EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",CCTV11
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000019789/
@@ -179,7 +179,7 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031106/
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010092/
 #EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",CCTV11
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010092/
-#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",CCTV11-7.7M1080
+#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",CCTV11
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000497/1.m3u8
 #EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV-12
 http://[2409:8087:74F1:0021::0008]:80/270000001322/69900158041111100000002147/1.m3u8
@@ -197,8 +197,10 @@ http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010092/
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010205/
 #EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV12
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010205/
-#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV12-7.7M1080
+#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV12
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000377/1.m3u8
+#EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央视",CCTV13
+http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000516/1.m3u8
 #EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央视",CCTV13
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021303/
 #EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央视",CCTV13
@@ -209,8 +211,8 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010093/
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010093/
 #EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央视",CCTV13
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010093/
-#EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央视",CCTV13-7.7M1080
-http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000516/1.m3u8
+#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",CCTV14
+http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000378/1.m3u8
 #EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",CCTV14
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000008170/
 #EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",CCTV14
@@ -225,8 +227,8 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010207/
 #EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",CCTV14
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010207/
-#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",CCTV14-7.7M1080
-http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000378/1.m3u8
+#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视",CCTV15
+http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000501/1.m3u8
 #EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视",CCTV15
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000008163/
 #EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视",CCTV15
@@ -237,8 +239,6 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010094/
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010094/
 #EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视",CCTV15
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010094/
-#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视",CCTV15-7.7M1080
-http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000501/1.m3u8
 #EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视",CCTV16
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/
 #EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视",CCTV16
@@ -259,58 +259,8 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010210/
 #EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV17
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010210/
-#EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV17-7.7M1080
+#EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV17
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000494/1.m3u8
-#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.v1.mk/logo/CETV1.png" group-title="其他",CETV-1SD
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010103/
-#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.v1.mk/logo/CETV2.png" group-title="其他",CETV-2SD
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010104/
-#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.v1.mk/logo/CETV4.png" group-title="其他",CETV-4SD
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010105/
-#EXTINF:-1,tvg-id="cetv1" tvg-name="cetv1" tvg-logo="https://epg.v1.mk/logo/cetv1.png" group-title="其他",CETV1
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000027253/
-#EXTINF:-1,tvg-id="cetv1" tvg-name="cetv1" tvg-logo="https://epg.v1.mk/logo/cetv1.png" group-title="其他",CETV1
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010103/
-#EXTINF:-1,tvg-id="cetv1" tvg-name="cetv1" tvg-logo="https://epg.v1.mk/logo/cetv1.png" group-title="其他",CETV1
-http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010103/
-#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.v1.mk/logo/CETV2.png" group-title="其他",CETV2
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266004/
-#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.v1.mk/logo/CETV2.png" group-title="其他",CETV2
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010104/
-#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.v1.mk/logo/CETV2.png" group-title="其他",CETV2
-http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010104/
-#EXTINF:-1,tvg-id="cetv4" tvg-name="cetv4" tvg-logo="https://epg.v1.mk/logo/cetv4.png" group-title="其他",CETV4
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000025333/
-#EXTINF:-1,tvg-id="cetv4" tvg-name="cetv4" tvg-logo="https://epg.v1.mk/logo/cetv4.png" group-title="其他",CETV4
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000012123/
-#EXTINF:-1,tvg-id="cetv4" tvg-name="cetv4" tvg-logo="https://epg.v1.mk/logo/cetv4.png" group-title="其他",CETV4
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031126/
-#EXTINF:-1,tvg-id="cetv4" tvg-name="cetv4" tvg-logo="https://epg.v1.mk/logo/cetv4.png" group-title="其他",CETV4
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010105/
-#EXTINF:-1,tvg-id="cetv4" tvg-name="cetv4" tvg-logo="https://epg.v1.mk/logo/cetv4.png" group-title="其他",CETV4
-http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010105/
-#EXTINF:-1,tvg-id="CGTN1" tvg-name="CGTN1" tvg-logo="https://epg.v1.mk/logo/CGTN1.png" group-title="央视",CGTN SD
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010095/
-#EXTINF:-1,tvg-id="CGTN1" tvg-name="CGTN1" tvg-logo="https://epg.v1.mk/logo/CGTN1.png" group-title="央视",CGTN SD
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010137/
-#EXTINF:-1,tvg-id="cgtn纪录" tvg-name="cgtn纪录" tvg-logo="https://epg.v1.mk/logo/cgtn纪录.png" group-title="央视",CGTN纪录
-http://[2409:8087:5e00:24::1e]:6060/000000001000/8428799834696888424/
-#EXTINF:-1,tvg-id="CGTN记录" tvg-name="CGTN记录" tvg-logo="https://epg.v1.mk/logo/CGTN记录.png" group-title="央视",CGTN记录-7.7M1080
-http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000528/1.m3u8
-#EXTINF:-1,tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://epg.v1.mk/logo/CGTN阿拉伯语.png" group-title="央视",CGTN阿拉伯语
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000280001/
-#EXTINF:-1,tvg-id="cgtn俄语" tvg-name="cgtn俄语" tvg-logo="https://epg.v1.mk/logo/cgtn俄语.png" group-title="央视",CGTN俄语
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000280004/
-#EXTINF:-1,tvg-id="cgtn法语" tvg-name="cgtn法语" tvg-logo="https://epg.v1.mk/logo/cgtn法语.png" group-title="央视",CGTN法语
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000280003/
-#EXTINF:-1,tvg-id="CGTN1" tvg-name="CGTN1" tvg-logo="https://epg.v1.mk/logo/CGTN1.png" group-title="央视",CGTN新闻
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010095/
-#EXTINF:-1,tvg-id="CGTN1" tvg-name="CGTN1" tvg-logo="https://epg.v1.mk/logo/CGTN1.png" group-title="央视",CGTN新闻
-http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010095/
-#EXTINF:-1,tvg-id="cgtn西班牙语" tvg-name="cgtn西班牙语" tvg-logo="https://epg.v1.mk/logo/cgtn西班牙语.png" group-title="央视",CGTN西班牙语
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000280002/
-#EXTINF:-1,tvg-id="cgtn英语" tvg-name="cgtn英语" tvg-logo="https://epg.v1.mk/logo/cgtn英语.png" group-title="央视",CGTN英语
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000009569/
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="北京",北京卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000017156/
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="北京",北京卫视
@@ -325,7 +275,7 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010143/
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010143/
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="北京",北京卫视
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010143/
-#EXTINF:-1,tvg-id="BTV北京卫视" tvg-name="BTV北京卫视" tvg-logo="https://epg.v1.mk/logo/BTV北京卫视.png" group-title="北京",北京卫视-7.7M1080
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="北京",北京卫视
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000173/1.m3u8
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="卫视",东方卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000005866/
@@ -379,8 +329,10 @@ http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010223/
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010057/
 #EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="湖北",湖北卫视
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010223/
-#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="湖北",湖北卫视-7.7M1080
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="湖北",湖北卫视
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000250/1.m3u8
+#EXTINF:-1,tvg-id="湖南卫视4" tvg-name="湖南卫视4" tvg-logo="https://epg.v1.mk/logo/湖南卫视4.png" group-title="湖南",湖南卫视
+http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000174/1.m3u8
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="湖南",湖南卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009115/
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="湖南",湖南卫视
@@ -403,8 +355,8 @@ http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010224/
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010058/
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="湖南",湖南卫视
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010224/
-#EXTINF:-1,tvg-id="湖南卫视4" tvg-name="湖南卫视4" tvg-logo="https://epg.v1.mk/logo/湖南卫视4.png" group-title="湖南",湖南卫视-7.7M1080
-http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000174/1.m3u8
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="浙江",浙江卫视
+http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000248/1.m3u8
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="浙江",浙江卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009806/
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="浙江",浙江卫视
@@ -421,8 +373,8 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010070/
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010070/
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="浙江",浙江卫视
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010070/
-#EXTINF:-1,tvg-id="浙江卫视4" tvg-name="浙江卫视4" tvg-logo="https://epg.v1.mk/logo/浙江卫视4.png" group-title="浙江",浙江卫视-7.7M1080
-http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000248/1.m3u8
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="江苏",江苏卫视
+http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000177/1.m3u8
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="江苏",江苏卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001828/
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="江苏",江苏卫视
@@ -445,8 +397,6 @@ http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010225/
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010059/
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="江苏",江苏卫视
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010225/
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="江苏",江苏卫视-7.7M1080
-http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000177/1.m3u8
 #EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="江西",江西卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000013731/
 #EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="江西",江西卫视
@@ -457,7 +407,7 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000011210/
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010060/
 #EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="江西",江西卫视
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010060/
-#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="江西",江西卫视-7.7M1080
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="江西",江西卫视
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000522/1.m3u8
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="辽宁",辽宁卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001945/
@@ -471,9 +421,9 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010061/
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010061/
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="辽宁",辽宁卫视
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010061/
-#EXTINF:-1,tvg-id="辽宁卫视4" tvg-name="辽宁卫视4" tvg-logo="https://epg.v1.mk/logo/辽宁卫视4.png" group-title="辽宁",辽宁卫视-7.7M1080
+#EXTINF:-1,tvg-id="辽宁卫视4" tvg-name="辽宁卫视4" tvg-logo="https://epg.v1.mk/logo/辽宁卫视4.png" group-title="辽宁",辽宁卫视
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000367/1.m3u8
-#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="吉林",吉林卫视-7.2M1080
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="吉林",吉林卫视
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000533/1.m3u8
 #EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="吉林",吉林卫视SD
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010075/
@@ -507,7 +457,7 @@ http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010221/
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010055/
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="广东",广东卫视
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010221/
-#EXTINF:-1,tvg-id="广东卫视4" tvg-name="广东卫视4" tvg-logo="https://epg.v1.mk/logo/广东卫视4.png" group-title="广东",广东卫视-7.7M1080
+#EXTINF:-1,tvg-id="广东卫视4" tvg-name="广东卫视4" tvg-logo="https://epg.v1.mk/logo/广东卫视4.png" group-title="广东",广东卫视
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000341/1.m3u8
 #EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.v1.mk/logo/广西卫视.png" group-title="卫视",广西卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000019837/
@@ -529,11 +479,11 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010100/
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010100/
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="贵州",贵州卫视
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010100/
-#EXTINF:-1,tvg-id="贵州卫视-3" tvg-name="贵州卫视-3" tvg-logo="https://epg.v1.mk/logo/贵州卫视-3.png" group-title="贵州",贵州卫视-7.7M1080
+#EXTINF:-1,tvg-id="贵州卫视-3" tvg-name="贵州卫视-3" tvg-logo="https://epg.v1.mk/logo/贵州卫视-3.png" group-title="贵州",贵州卫视
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000489/1.m3u8
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.v1.mk/logo/海南卫视.png" group-title="海南",海南卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006211/
-#EXTINF:-1,tvg-id="海南卫视4" tvg-name="海南卫视4" tvg-logo="https://epg.v1.mk/logo/海南卫视4.png" group-title="海南",海南卫视-7.5M1080
+#EXTINF:-1,tvg-id="海南卫视4" tvg-name="海南卫视4" tvg-logo="https://epg.v1.mk/logo/海南卫视4.png" group-title="海南",海南卫视
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000262/1.m3u8
 #EXTINF:-1,tvg-id="海南卫视4" tvg-name="海南卫视4" tvg-logo="https://epg.v1.mk/logo/海南卫视4.png" group-title="海南",海南卫视SD
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010083/
@@ -547,7 +497,7 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010101/
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010101/
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="河北",河北卫视
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010101/
-#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="河北",河北卫视-7.7M1080
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="河北",河北卫视
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000487/1.m3u8
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="河南",河南卫视SD
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010071/
@@ -563,7 +513,7 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010041/
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010041/
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="安徽",安徽卫视
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010041/
-#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="安徽",安徽卫视-7.7M1080
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="安徽",安徽卫视
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000368/1.m3u8
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="黑龙江",黑龙江卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001925/
@@ -587,7 +537,7 @@ http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010056/
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010121/
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="黑龙江",黑龙江卫视
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010222/
-#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="黑龙江",黑龙江卫视-7.7M1080
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="黑龙江",黑龙江卫视
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000175/1.m3u8
 #EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="重庆",重庆卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001096/
@@ -609,7 +559,7 @@ http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010218/
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010053/
 #EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="重庆",重庆卫视
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010218/
-#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="重庆",重庆卫视-7.7M1080
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="重庆",重庆卫视
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000523/1.m3u8
 #EXTINF:-1,tvg-id="大湾区卫视-J" tvg-name="大湾区卫视-J" tvg-logo="https://epg.v1.mk/logo/大湾区卫视-J.png" group-title="卫视",大湾区卫视SD
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010108/
@@ -651,7 +601,7 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010066/
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010066/
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="山东",山东卫视
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010066/
-#EXTINF:-1,tvg-id="山东卫视4" tvg-name="山东卫视4" tvg-logo="https://epg.v1.mk/logo/山东卫视4.png" group-title="山东",山东卫视-7.7M1080
+#EXTINF:-1,tvg-id="山东卫视4" tvg-name="山东卫视4" tvg-logo="https://epg.v1.mk/logo/山东卫视4.png" group-title="山东",山东卫视
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000364/1.m3u8
 #EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="山西",山西卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021220/
@@ -669,7 +619,7 @@ http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010113/
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010113/
 #EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="陕西",陕西卫视SD
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010113/
-#EXTINF:-1,tvg-id="上海东方影视" tvg-name="上海东方影视" tvg-logo="https://epg.v1.mk/logo/上海东方影视.png" group-title="上海",上海东方卫视-7.7M1080
+#EXTINF:-1,tvg-id="上海东方影视" tvg-name="上海东方影视" tvg-logo="https://epg.v1.mk/logo/上海东方影视.png" group-title="上海",上海东方卫视
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000182/1.m3u8
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009227/
@@ -685,7 +635,7 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010068/
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010068/
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010068/
-#EXTINF:-1,tvg-id="深圳卫视4" tvg-name="深圳卫视4" tvg-logo="https://epg.v1.mk/logo/深圳卫视4.png" group-title="卫视",深圳卫视-7.7M1080
+#EXTINF:-1,tvg-id="深圳卫视4" tvg-name="深圳卫视4" tvg-logo="https://epg.v1.mk/logo/深圳卫视4.png" group-title="卫视",深圳卫视
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000176/1.m3u8
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="四川",四川卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000016825/
@@ -713,7 +663,7 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010069/
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010069/
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010069/
-#EXTINF:-1,tvg-id="天津卫视4" tvg-name="天津卫视4" tvg-logo="https://epg.v1.mk/logo/天津卫视4.png" group-title="卫视",天津卫视-7.7M1080
+#EXTINF:-1,tvg-id="天津卫视4" tvg-name="天津卫视4" tvg-logo="https://epg.v1.mk/logo/天津卫视4.png" group-title="卫视",天津卫视
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000249/1.m3u8
 #EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.v1.mk/logo/西藏卫视.png" group-title="卫视",西藏卫视SD
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010123/
@@ -737,7 +687,7 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010119/
 #EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="云南",云南卫视
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010119/
-#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.v1.mk/logo/中国教育1台.png" group-title="其他",中国教育1-7.7M1080
+#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.v1.mk/logo/中国教育1台.png" group-title="其他",中国教育1
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000481/1.m3u8
 #EXTINF:-1,tvg-id="NewTV吉林" tvg-name="NewTV吉林" tvg-logo="https://epg.v1.mk/logo/NewTV吉林.png" group-title="吉林",吉林延边卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266008/
@@ -761,6 +711,56 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266002/
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010146/
 #EXTINF:-1,tvg-id="河南4K测试" tvg-name="河南4K测试" tvg-logo="https://epg.v1.mk/logo/河南4K测试.png" group-title="其他",4K测试-24M2160HEVC
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000459/1.m3u8
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.v1.mk/logo/CETV1.png" group-title="其他",CETV-1SD
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010103/
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.v1.mk/logo/CETV2.png" group-title="其他",CETV-2SD
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010104/
+#EXTINF:-1,tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.v1.mk/logo/CETV4.png" group-title="其他",CETV-4SD
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010105/
+#EXTINF:-1,tvg-id="cetv1" tvg-name="cetv1" tvg-logo="https://epg.v1.mk/logo/cetv1.png" group-title="其他",CETV1
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000027253/
+#EXTINF:-1,tvg-id="cetv1" tvg-name="cetv1" tvg-logo="https://epg.v1.mk/logo/cetv1.png" group-title="其他",CETV1
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010103/
+#EXTINF:-1,tvg-id="cetv1" tvg-name="cetv1" tvg-logo="https://epg.v1.mk/logo/cetv1.png" group-title="其他",CETV1
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010103/
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.v1.mk/logo/CETV2.png" group-title="其他",CETV2
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266004/
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.v1.mk/logo/CETV2.png" group-title="其他",CETV2
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010104/
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.v1.mk/logo/CETV2.png" group-title="其他",CETV2
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010104/
+#EXTINF:-1,tvg-id="cetv4" tvg-name="cetv4" tvg-logo="https://epg.v1.mk/logo/cetv4.png" group-title="其他",CETV4
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000025333/
+#EXTINF:-1,tvg-id="cetv4" tvg-name="cetv4" tvg-logo="https://epg.v1.mk/logo/cetv4.png" group-title="其他",CETV4
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000012123/
+#EXTINF:-1,tvg-id="cetv4" tvg-name="cetv4" tvg-logo="https://epg.v1.mk/logo/cetv4.png" group-title="其他",CETV4
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031126/
+#EXTINF:-1,tvg-id="cetv4" tvg-name="cetv4" tvg-logo="https://epg.v1.mk/logo/cetv4.png" group-title="其他",CETV4
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010105/
+#EXTINF:-1,tvg-id="cetv4" tvg-name="cetv4" tvg-logo="https://epg.v1.mk/logo/cetv4.png" group-title="其他",CETV4
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010105/
+#EXTINF:-1,tvg-id="CGTN1" tvg-name="CGTN1" tvg-logo="https://epg.v1.mk/logo/CGTN1.png" group-title="央视",CGTN SD
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010095/
+#EXTINF:-1,tvg-id="CGTN1" tvg-name="CGTN1" tvg-logo="https://epg.v1.mk/logo/CGTN1.png" group-title="央视",CGTN SD
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010137/
+#EXTINF:-1,tvg-id="cgtn纪录" tvg-name="cgtn纪录" tvg-logo="https://epg.v1.mk/logo/cgtn纪录.png" group-title="央视",CGTN纪录
+http://[2409:8087:5e00:24::1e]:6060/000000001000/8428799834696888424/
+#EXTINF:-1,tvg-id="CGTN记录" tvg-name="CGTN记录" tvg-logo="https://epg.v1.mk/logo/CGTN记录.png" group-title="央视",CGTN记录
+http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000528/1.m3u8
+#EXTINF:-1,tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://epg.v1.mk/logo/CGTN阿拉伯语.png" group-title="央视",CGTN阿拉伯语
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000280001/
+#EXTINF:-1,tvg-id="cgtn俄语" tvg-name="cgtn俄语" tvg-logo="https://epg.v1.mk/logo/cgtn俄语.png" group-title="央视",CGTN俄语
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000280004/
+#EXTINF:-1,tvg-id="cgtn法语" tvg-name="cgtn法语" tvg-logo="https://epg.v1.mk/logo/cgtn法语.png" group-title="央视",CGTN法语
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000280003/
+#EXTINF:-1,tvg-id="CGTN1" tvg-name="CGTN1" tvg-logo="https://epg.v1.mk/logo/CGTN1.png" group-title="央视",CGTN新闻
+http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010095/
+#EXTINF:-1,tvg-id="CGTN1" tvg-name="CGTN1" tvg-logo="https://epg.v1.mk/logo/CGTN1.png" group-title="央视",CGTN新闻
+http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010095/
+#EXTINF:-1,tvg-id="cgtn西班牙语" tvg-name="cgtn西班牙语" tvg-logo="https://epg.v1.mk/logo/cgtn西班牙语.png" group-title="央视",CGTN西班牙语
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000280002/
+#EXTINF:-1,tvg-id="cgtn英语" tvg-name="cgtn英语" tvg-logo="https://epg.v1.mk/logo/cgtn英语.png" group-title="央视",CGTN英语
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000009569/
 #EXTINF:-1,tvg-id="BESTV4K" tvg-name="BESTV4K" tvg-logo="https://epg.v1.mk/logo/BESTV4K.png" group-title="其他",BesTV4K-15M2160HEVC
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000196/1.m3u8
 #EXTINF:-1,tvg-id="BESTV4K" tvg-name="BESTV4K" tvg-logo="https://epg.v1.mk/logo/BESTV4K.png" group-title="其他",BesTV4K-34M2160HEVC
