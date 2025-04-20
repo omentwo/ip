@@ -156,6 +156,8 @@ http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010052/
 #EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央视",CCTV9
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010217/
 #EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV10
+http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000375/1.m3u8
+#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV10
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000023734/
 #EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV10
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000026367/
@@ -169,8 +171,8 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010203/
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010203/
 #EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV10
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010203/
-#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV10
-http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000375/1.m3u8
+#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",CCTV11
+http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000497/1.m3u8
 #EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",CCTV11
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000019789/
 #EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",CCTV11
@@ -179,10 +181,8 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031106/
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010092/
 #EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",CCTV11
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010092/
-#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",CCTV11
-http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000497/1.m3u8
-#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV-12
-http://[2409:8087:74F1:0021::0008]:80/270000001322/69900158041111100000002147/1.m3u8
+#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV12
+http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000377/1.m3u8
 #EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV12
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001640/
 #EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV12
@@ -197,8 +197,6 @@ http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010092/
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010205/
 #EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV12
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010205/
-#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV12
-http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000377/1.m3u8
 #EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央视",CCTV13
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000516/1.m3u8
 #EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央视",CCTV13
@@ -331,7 +329,7 @@ http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010057/
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010223/
 #EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="湖北",湖北卫视
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000250/1.m3u8
-#EXTINF:-1,tvg-id="湖南卫视4" tvg-name="湖南卫视4" tvg-logo="https://epg.v1.mk/logo/湖南卫视4.png" group-title="湖南",湖南卫视
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="湖南",湖南卫视
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000174/1.m3u8
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="湖南",湖南卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009115/
